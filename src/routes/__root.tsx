@@ -114,7 +114,7 @@ export const Route =
         },
         {
           rel: "icon",
-          href: "/favicon.ico",
+          href: "/favicon-tax.ico",
           type: "image/x-icon",
         },
         {
